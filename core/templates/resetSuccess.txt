@@ -1,0 +1,18 @@
+*****************
+CONGRATULATIONS 🎊
+*****************
+
+Dear {{name}},
+
+We hope this email finds you well. We would like to inform you that the password for your Earthie account has been successfully reset.
+
+If you initiated this password reset, you can now log in to your account using your new password. If you didn't request this password change, please contact our support team immediately at support@earthie.co.in to report any unauthorized activity.
+
+To ensure the security of your account, we recommend regularly updating your password and keeping it confidential. If you have any concerns or need further assistance, feel free to reach out to our support team, and we'll be more than happy to assist you.
+
+Thank you for being a valued member of the Earthie community. We look forward to serving you with the best online shopping experience.
+
+Best regards,
+
+Harsh Lad
+Earthie Team

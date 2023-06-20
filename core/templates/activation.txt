@@ -1,0 +1,22 @@
+****************
+Welcome Onboard!
+****************
+
+Dear {name},
+
+Thank you for signing up for an Earthie account! We're excited to have you join our community of fashion enthusiasts and offer you a seamless online shopping experience.
+
+To complete the registration process and ensure the security of your account, we kindly request that you verify your email address by clicking on the following link:
+
+{verificationLink}
+
+Verify Email
+
+By clicking this link, you will instantly confirm your email address and gain full access to your Earthie account. It's an essential step to help us protect your account information and provide you with the best possible service.
+If you didn't sign up for an Earthie account or received this email by mistake, please disregard it. Rest assured that your email address will not be used for any other purpose without your consent.
+If you encounter any issues or have any questions, please don't hesitate to reach out to our customer support team at [Support Email] for assistance.
+Thank you once again for choosing Earthie. We can't wait to embark on this stylish journey together!
+
+Best regards,
+Harsh Lad
+Earthie Team
